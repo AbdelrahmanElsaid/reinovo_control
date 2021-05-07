@@ -1,3 +1,7 @@
+navigate to set of goals in yaml forma navgoals python dictionary 
+
+
+
 # reinovo_controller使用说明
 
 
